@@ -6,6 +6,9 @@ This project is designed to collect data on TV shows from IMDb and export the in
 # Features
 
 -**Data Collection**: The script scrapes TV show data from IMDb, such as titles, release dates, ratings, genres, and more.
+
 -**Data Organization**: The collected data is structured and organized into an Excel file for easy analysis and presentation.
+
 -**Automated Process**: The script can be run as needed to update or expand the dataset with the latest TV show information.
+
 -**User-Friendly Output**: The final output is an Excel file that is easy to navigate and suitable for further analysis or reporting.
